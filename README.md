@@ -1,7 +1,7 @@
 © Copyright IBM Corp. 2019
 
 Datasets accompanying our paper -  
-**NE-Table: A Neural key-value table for Named Entities**, accepted at RANLP 2019  
+**NE-Table: A Neural key-value table for Named Entities**, accepted at RANLP 2019 (http://lml.bas.bg/ranlp2019/accepted.php)    
 Janarthanan Rajendran\*, Jatin Ganhotra\*, Xiaoxiao Guo, Mo Yu, Satinder Singh and Lazaros Polymenakos  
 https://arxiv.org/abs/1804.09540   
 (*Equal Contribution)
