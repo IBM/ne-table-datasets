@@ -27,5 +27,5 @@ Janarthanan Rajendran\*, Jatin Ganhotra\*, Xiaoxiao Guo, Mo Yu, Satinder Singh a
 https://arxiv.org/abs/1804.09540   
 (*Equal Contribution)
 
-For any information on *Extended Dialog bAbI tasks* dataset, contact *Janarthanan Rajendran* : rjana (at) umich (dot) edu .
+For any information on *Extended Dialog bAbI tasks* dataset, contact *Janarthanan Rajendran* : rjana (at) umich (dot) edu .  
 For any information on *CBT-OOV* dataset, contact *Jatin Ganhotra* : jatinganhotra (at) us (dot) ibm (dot) com .

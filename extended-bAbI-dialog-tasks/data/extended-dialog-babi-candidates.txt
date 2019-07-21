@@ -1,0 +1,16 @@
+1 what do you think of this option: ne_name
+1 here it is ne_address
+1 here it is ne_phone
+1 i'm on it
+1 which price range are looking for
+1 is there anything i can help you with
+1 hello what can i help you with today
+1 you're welcome
+1 sure is there anything else to update
+1 sure let me find an other option for you
+1 where should it be
+1 how many people would be in your party
+1 any preference on a type of cuisine
+1 great let me do the reservation
+1 ok let me look into some options for you
+1 api_call
